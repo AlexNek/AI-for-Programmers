@@ -2,7 +2,7 @@
 A category of tools that leverage artificial intelligence and machine learning to support software development. (sorted alphabetically)
 
 1. **[AI Query](https://aiquery.co)**: A tool designed to simplify database querying using natural language processing, allowing developers and non-technical users to interact with databases using conversational language.
-2. **[Codium](https://www.codium.ai)**: An AI-powered code completion and generation tool. It offers real-time code suggestions, supports multiple programming languages, and integrates with various IDEs to enhance developer productivity.
+2. **[Qodo](https://www.qodo.ai) (formerly Codium)***: An AI-powered code completion and generation tool. It offers real-time code suggestions, supports multiple programming languages, and integrates with various IDEs to enhance developer productivity.
 3. **[CodeGuru](https://aws.amazon.com/codeguru/) (Amazon)**: Uses machine learning to provide recommendations for improving code quality and performance.
 4. **[DeepCode](https://www.deepcode.ai) (Snyk)**: An AI-powered code review tool that finds bugs and vulnerabilities in various languages.
 5. **[Figstack](https://www.figstack.com)**: A comprehensive AI-powered development assistant that offers features like code explanation, generation, and refactoring suggestions across multiple programming languages.
