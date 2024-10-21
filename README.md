@@ -1,4 +1,5 @@
 # Artificial Intelligence for Programmers
+[DE version](readme-de.md)
 
 ## Overview
 
