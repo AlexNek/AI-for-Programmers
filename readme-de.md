@@ -148,8 +148,8 @@ Diese Einschränkungen können je nach Plattform variieren und ob es sich um ein
    - [Perplexity AI](https://www.perplexity.ai/)
 
 3. **Integration von KI-Plugins in Ihre IDE (nur als Beispiel)**:
-   - Für Visual Studio Code: [BlackBox AI]((https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox)
-   - Für Visual Studio: [Tabnine]((https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-visual-studio) – ausgezeichnet zum Erstellen oder Aktualisieren von Unit-Tests.
+   - Für Visual Studio Code: [BlackBox AI](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox)
+   - Für Visual Studio: [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-visual-studio) – ausgezeichnet zum Erstellen oder Aktualisieren von Unit-Tests.
    - Für Rider: Eine kostenlose Version von Gemini ist bis zum 8.11.2024 verfügbar.
 
 ## Nützliche Links (nur auf Englisch)
