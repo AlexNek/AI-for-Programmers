@@ -58,7 +58,7 @@ KI ist darauf ausgelegt, Entwickler zu **unterstützen**, anstatt sie zu ersetze
 Während sich die diskutierten Quellen hauptsächlich auf spezifische Anwendungen von KI in der Softwareentwicklung konzentrieren, unterstützen sie die Vorstellung von KI als Helfer. Breitere philosophische Diskussionen über das zukünftige Potenzial der KI, einschließlich der Möglichkeit, vollständig autonome Systeme zu schaffen, liegen außerhalb des Rahmens dieser Analyse.
 
 ## Die duale Natur der KI verstehen
-Mit KI zu arbeiten, ist nicht so einfach, wie man denken könnte. Man kann KI sowohl mit einem Werkzeug als auch mit einem Tier vergleichen. Man muss wissen, wie man mit dem Werkzeug umgeht, und man muss die Gewohnheiten des Tieres kennen, um zu wissen, was man von ihm erwarten kann.
+Mit KI zu arbeiten, ist nicht so einfach, wie man denken könnte. Man kann KI sowohl mit einem Werkzeug als auch mit einem Tier vergleichen. Man muss wissen, wie man mit dem Werkzeug umgeht, und man muss die Gewohnheiten des Tieres kennen, um zu wissen, was man von ihm erwarten kann.  
 ![AI Tools and Animals Illustration](Ai-tools-andAnimal600.jpg)  
 *Bild erzeugt mit AI (DALL-E)*. 
 
@@ -82,8 +82,9 @@ Die effektive Nutzung von KI erfordert die Kombination der Kontrolle eines Werkz
 
 ## Ein praktischer Workflow für die Verwendung von KI in der Entwicklung
 
-Während KI bei der Entwicklung helfen kann, wird sie nicht jedes Problem fehlerfrei lösen. Einige Aufgaben sind unkompliziert, während andere Geduld und Ausdauer erfordern können. Es ist wichtig, das Problem zu kennen, das Sie lösen möchten, da die KI sonst den falschen Lösungsweg vorschlagen könnte.
+Während KI bei der Entwicklung helfen kann, wird sie nicht jedes Problem fehlerfrei lösen. Einige Aufgaben sind unkompliziert, während andere Geduld und Ausdauer erfordern können. Es ist wichtig, das Problem zu kennen, das Sie lösen möchten, da die KI sonst den falschen Lösungsweg vorschlagen könnte.  
 ![image](workflow.png)
+
 Hier ist ein strukturierter, iterativer Ansatz zur effektiven Nutzung von KI:
 
 ### 1. **Die Aufgabe klar definieren**
