@@ -89,8 +89,9 @@ Using AI effectively requires combining the control of a tool with the patience 
 
 ## A Practical Workflow for Using AI in Development
 
-While AI can assist in development, it won’t solve every problem flawlessly. Some tasks are straightforward, but others may require patience and persistence. It is important to know the problem you are trying to solve, otherwise the AI may suggest the wrong way to solve it.
+While AI can assist in development, it won’t solve every problem flawlessly. Some tasks are straightforward, but others may require patience and persistence. It is important to know the problem you are trying to solve, otherwise the AI may suggest the wrong way to solve it.  
 ![image](workflow.png)
+
 Here's a structured, iterative approach to using AI effectively:
 
 ### 1. **Define the Task Clearly**
