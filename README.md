@@ -201,6 +201,13 @@ As AI continues to evolve, so too will the best practices for using it effective
     </audio>
 </div>
 
+<div class="player">
+    <audio id="music" preload="auto" controls>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+
 ## Author
 
 Alex Nek 
