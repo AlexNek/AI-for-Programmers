@@ -194,21 +194,11 @@ Developers must harness AI's power to automate and optimize, while remaining awa
 
 As AI continues to evolve, so too will the best practices for using it effectively in software development.
 
-<div class="player">
-    <audio id="music" preload="auto" controls>
-        <source src="AI-talk02.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
-</div>
-
-<div class="player">
-    <audio id="music" preload="auto" controls>
-        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
-</div>
-![Ai-tools-andAnimal600](https://github.com/user-attachments/assets/950a8736-a8f9-4dfd-b874-02dff4d9e910)
-
 ## Author
 
 Alex Nek 
+
+Audio Talk
+
+https://github.com/user-attachments/assets/cf2ff7da-68d3-4b91-9117-a6021445244f
+
