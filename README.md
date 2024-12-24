@@ -198,7 +198,9 @@ As AI continues to evolve, so too will the best practices for using it effective
 
 Alex Nek 
 
-Audio Talk
+[Audio Talk](https://github.com/AlexNek/AI-for-Programmers/blob/master/Ai-talk2.mp4)
 
-https://github.com/user-attachments/assets/cf2ff7da-68d3-4b91-9117-a6021445244f
+
+https://github.com/user-attachments/assets/cc57ff2f-d348-48cc-9e78-a9cb383cd827
+
 
